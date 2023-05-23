@@ -2,6 +2,10 @@
 
 Tana Quick Capture & Roam Research Quick Capture (with API)
 
+| Tana                                  | Roam Research                                 |
+| ------------------------------------- | --------------------------------------------- |
+| <video src="https://github.com/JimmyLv/quick-capture/assets/4997466/e4e2e466-026a-48a3-ae18-9c325ccb01bd"></video>    | <video src="https://github.com/JimmyLv/quick-capture/assets/4997466/8436675c-39cd-482c-be8d-29b15c6fdeb4"></video>            |
+
 ## Features
 
 Effortlessly capture fleeting notes in Tana/Roam Research with the Quick Capture Alfred Workflow.
