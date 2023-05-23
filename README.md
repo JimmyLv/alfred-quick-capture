@@ -4,7 +4,8 @@ Tana Quick Capture & Roam Research Quick Capture (with API)
 
 | Tana                                  | Roam Research                                 |
 | ------------------------------------- | --------------------------------------------- |
-| <video src="https://github.com/JimmyLv/quick-capture/assets/4997466/e4e2e466-026a-48a3-ae18-9c325ccb01bd"></video>    | <video src="https://github.com/JimmyLv/quick-capture/assets/4997466/8436675c-39cd-482c-be8d-29b15c6fdeb4"></video>            |
+| ![Alfred Tana](https://github.com/JimmyLv/quick-capture/assets/4997466/39dc7bb1-a890-4afe-a637-5a54d8d505bb)    |  ![Alfred Roam Research](https://github.com/JimmyLv/quick-capture/assets/4997466/7d5240c0-ff62-4fac-91aa-4d266efa8905)   |
+
 
 ## Features
 
